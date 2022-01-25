@@ -1,0 +1,11 @@
+[user]
+	email = drbalpat@fit.cvut.cz
+	name = Patrik Drbal
+[alias]
+	ll = log --oneline --graph --decorate --all
+[push]
+	default = simple
+[core]
+	editor = vim
+	autocrlf = input
+	excludesFile = /home/b4lldr/.gitignore_global
